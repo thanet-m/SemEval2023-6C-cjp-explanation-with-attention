@@ -8,6 +8,8 @@
 pip install -r dependences
 ```
 
+Fist step is to adopt inut processing, provided in `process_input.py`.
+
 We provide `cnn` and `att-cnn` models from AREnets.
 
 ## References
