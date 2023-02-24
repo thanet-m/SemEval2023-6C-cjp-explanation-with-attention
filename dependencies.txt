@@ -1,0 +1,3 @@
+arenets @ git+https://github.com/nicolay-r/AREnets@54b241fe23556dd74a51f152454a4cfbff05351b
+nltk==3.4.5
+
